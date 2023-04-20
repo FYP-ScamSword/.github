@@ -14,7 +14,7 @@ ScamSword is a final-year project that was developed over the course of 15 weeks
 
 1. Proactively identifying malicious sites through the inspection of URLs, page content, images, and thereafter sending out takedown requests to the relevant DNS and hosting providers.
 
-2. Diverting the attention and resources of scammers through a web app that facilitates anonymous online chats using dummy accounts, allowing users to assume the role various fake personas.
+2. Diverting the attention and resources of scammers through a web app that facilitates anonymous online chats using dummy accounts, allowing users to assume the role of various fake personas.
 
 For more details on each implementation, feel free to view our individual repositories:
 
