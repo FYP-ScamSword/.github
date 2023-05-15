@@ -16,6 +16,8 @@ ScamSword is a final-year project that was developed over the course of 15 weeks
 
 2. Diverting the attention and resources of scammers through a web app that facilitates anonymous online chats using dummy accounts, allowing users to assume the role of various fake personas.
 
+A high-level overview of the project is available through our [project poster](../ScamSword-Poster.pdf)
+
 For more details on each implementation, feel free to view our individual repositories:
 
 - [Site Inspect](https://github.com/FYP-ScamSword/site-inspect)
